@@ -1,5 +1,5 @@
-p {
-    margin: 0px;
+p { 
+    margin: 0px; 
 }
 
 div {
@@ -7,25 +7,33 @@ div {
     border-color: black;
 }
 
-#div1 { 
-    background-color: yellow; 
+#div1 {
+    background-color: yellow;
 }
 
 #div2 {
     background-color: cyan;
 }
+
 #div3 {
     background-color: lightpink;
+    float: left;
+    width: 32%;
 }
 
 #div4 {
     background-color: orange;
+    float: left;
+     width: 32%;
 }
 
 #div5 {
-    background-color: lightblue; 
-} 
+    background-color: lightblue;
+    float: left;
+     width: 32%;
+}
 
 #div6 {
     background-color: lightgray;
+    clear: both;
 }
